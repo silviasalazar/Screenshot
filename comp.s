@@ -10,6 +10,6 @@ diferente:
   b end
   
 igual:  /*if*/
-  mov r0, =1
+  mov r0, #1
 end:
 bx lr
